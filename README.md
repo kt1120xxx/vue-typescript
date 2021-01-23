@@ -22,3 +22,14 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Customize configuration
+```
+cd /workspace/dev/vue-type
+docker-compose up -d
+docker-compose exec app bash
+cd app
+yarn serve
+http://localhost:8080
+```
