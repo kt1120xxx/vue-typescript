@@ -33,3 +33,9 @@ cd app
 yarn serve
 http://localhost:8080
 ```
+
+### 開発終了手順
+```
+exit
+docker-compose stop
+```
