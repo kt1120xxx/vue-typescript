@@ -24,7 +24,7 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### Customize configuration
+### 環境立ち上げ手順
 ```
 cd /workspace/dev/vue-type
 docker-compose up -d
